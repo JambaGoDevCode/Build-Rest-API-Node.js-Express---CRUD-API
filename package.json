@@ -1,0 +1,18 @@
+{
+  "name": "build-rest-api-node.js-express---crud-api",
+  "version": "1.0.0",
+  "description": "create api node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev" : "nodemon index.js"
+  },
+  "author": "joao jamba",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
